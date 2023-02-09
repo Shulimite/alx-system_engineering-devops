@@ -1,1 +1,2 @@
-using a directory
+#!/bin/bash
+here i am
